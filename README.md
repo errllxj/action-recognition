@@ -4,7 +4,7 @@ Most of the operations are the same as MARS.
 
 
 ## Training script
-For  and UCF101
+For  UCF101
  ```
     python MARS_train.py --dataset UCF101 --modality RGB_Flow --split 1  --n_classes 101 \
 --n_finetune_classes 101 --batch_size 64 --log 1 --sample_duration 16 --model resnext \
