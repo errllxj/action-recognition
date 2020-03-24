@@ -1,6 +1,6 @@
-This method is a modification of the MARS(https://github.com/craston/MARS) method.
-Most of the operations are the same as MARS
 This experiment mainly achieves RGB and Flow  deep mutual learning based on the KL divergence.
+This method is a modification of the MARS(https://github.com/craston/MARS) method.
+Most of the operations are the same as MARS.
 
 
 ## Training script
